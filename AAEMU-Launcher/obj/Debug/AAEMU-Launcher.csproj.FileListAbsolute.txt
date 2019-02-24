@@ -1,0 +1,11 @@
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\bin\Debug\AAEMU-Launcher.exe.config
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\bin\Debug\AAEMU-Launcher.exe
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\bin\Debug\AAEMU-Launcher.pdb
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\obj\Debug\AAEMU-Launcher.csprojResolveAssemblyReference.cache
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\obj\Debug\AAEMU_Launcher.Form1.resources
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\obj\Debug\AAEMU_Launcher.Properties.Resources.resources
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\obj\Debug\AAEMU-Launcher.csproj.GenerateResource.Cache
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\obj\Debug\AAEMU-Launcher.exe
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\obj\Debug\AAEMU-Launcher.pdb
+c:\users\nekko\documents\visual studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\obj\Debug\AAEMU_Launcher.Options.resources
+C:\Users\Nekko\Documents\Visual Studio 2015\Projects\AAEMU-Launcher\AAEMU-Launcher\bin\Debug\System.Data.SQLite.dll
